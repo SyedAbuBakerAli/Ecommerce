@@ -1,0 +1,85 @@
+[
+    {
+      "name": "SandDisk ultra 128GB SDXC UHS-I Memory Card upto 80MB/s",
+      "price": "46.89",
+      "description": "Ultra-fase cards (2) to take better pictures and Full HD videos (1) with your conpact to mid-range point-and- shoot cameras and camcorders",
+      "ratings": 4.5,
+      "images": [{
+        "public_id" : "products/tzfsnrli3szrdnb4jgge",
+        "url": "https://static.ticimax.cloud/14402/Uploads/UrunResimleri/buyuk/SANDISK-64GB-Ultra-SDXC-80MBs-Class-10-U-6dab.jpg"
+      }]  ,
+      "category": "Electronics",
+      "seller" : "Ebay",
+      "stock": 50,
+      "numOfReviews": 32,
+      "reviews": []
+    },
+    {
+        "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+        "price": "349.99",
+        "description": "Premium wireless headphones with industry-leading noise cancellation. Enjoy high-quality audio and long-lasting comfort.",
+        "ratings": 4.9,
+        "images": [
+          {
+            "public_id": "products/qwerty5678",
+            "url": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/3031/Bose-Noise-Cancelling-Headphones-700.jpg"
+          }
+        ],
+        "category": "Electronics",
+        "seller": "Best Buy",
+        "stock": 75,
+        "numOfReviews": 42,
+        "reviews": []
+      },
+      {
+        "name": "Yeti Tundra 65 Cooler",
+        "price": "349.99",
+        "description": "Heavy-duty cooler with superior insulation for keeping your beverages and food cold. Perfect for camping, picnics, and outdoor adventures.",
+        "ratings": 4.7,
+        "images": [
+          {
+            "public_id": "products/yeti-cooler-123",
+            "url": "https://content.motosport.com/images/items/large/YET/YET0004/CH.jpg"
+          }
+        ],
+        "category": "Outdoor",
+        "seller": "REI",
+        "stock": 30,
+        "numOfReviews": 18,
+        "reviews": []
+      },
+      {
+        "name": "Coleman Sundome 4-Person Tent",
+        "price": "89.99",
+        "description": "Easy to set up dome tent for 4 people. Great for camping trips with family or friends. Features a rainfly and large windows for ventilation.",
+        "ratings": 4.5,
+        "images": [
+          {
+            "public_id": "products/coleman-tent-456",
+            "url": "https://www.hodgesmarine.com/media/catalog/product/cache/3c0a6f7446c4f40830e075673927968a/c/o/col2155788-2.jpg"
+          }
+        ],
+        "category": "Outdoor",
+        "seller": "Walmart",
+        "stock": 50,
+        "numOfReviews": 22,
+        "reviews": []
+      },
+      {
+        "name": "Black Diamond Spot Headlamp",
+        "price": "39.95",
+        "description": "Powerful and compact headlamp with adjustable brightness. Ideal for hiking, running, and camping in low-light conditions.",
+        "ratings": 4.8,
+        "images": [
+          {
+            "public_id": "products/black-diamond-headlamp-789",
+            "url": "https://assets.cabelas.ca/image/upload/q_auto:eco,f_auto/c_scale,w_auto/dpr_auto/ProductImages//315060-280916"
+          }
+        ],
+        "category": "Outdoor",
+        "seller": "REI",
+        "stock": 40,
+        "numOfReviews": 30,
+        "reviews": []
+      }
+]
